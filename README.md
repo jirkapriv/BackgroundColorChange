@@ -1,3 +1,3 @@
 # Open
 
-[BackgroundColorChange](https://jirkapriv.github.io/xd/)
+[BackgroundColorChange](https://jirkapriv.github.io/BackgroundColorChange/)
